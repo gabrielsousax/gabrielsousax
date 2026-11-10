@@ -1,10 +1,8 @@
 ### Olá! me chamo Gabriel! 👋
 
 
-- Analista de Testes/QA Junior na Trilogo! 
-- 🔭 Atualmente estou apenas estudando Área de Testes e Desenvolvimento Front-end!
-- 🌱 Estudando Cypress e Javascipt!
-- 📫 Contate-me no email: gabriel.alves20x@gmail.com  
+- Analista de Testes/QA Pleno!
+- 📫 Contate-me no email: gabriel.qa.analista@gmail.com  
 
 
 <div align="center">
